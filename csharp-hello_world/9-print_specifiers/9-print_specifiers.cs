@@ -1,11 +1,12 @@
 using System;
-
 class Program
 {
-	static void Main(string[] args)
-	{
-		double percent = .7553;
-		double currency = 98765.4321;
-		Console.WriteLine($"Percent: {percent.ToString("P2", System.Globalization.CultureInfo.CreateSpecificCulture("en-US"))}\nCurrency: {currency.ToString("C", System.Globalization.CultureInfo.CreateSpecificCulture("en-US"))}");
-	}
+    static void Main(string[] args)
+    {
+        double percent = .7553;
+        double currency = 98765.4321;
+
+        Console.WriteLine("Percent: {0:p2}", percent);  
+        Console.WriteLine("Currency: {0:C2}", currency);    
+    }
 }

@@ -1,0 +1,5 @@
+C:\Users\LENOVO\OneDrive\Desktop\alu-csharp\csharp-hello_world\3-writeline\obj\Debug\net8.0\3-writeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\alu-csharp\csharp-hello_world\3-writeline\obj\Debug\net8.0\3-writeline.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\alu-csharp\csharp-hello_world\3-writeline\obj\Debug\net8.0\3-writeline.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\alu-csharp\csharp-hello_world\3-writeline\obj\Debug\net8.0\3-writeline.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\alu-csharp\csharp-hello_world\3-writeline\obj\Debug\net8.0\3-writeline.sourcelink.json

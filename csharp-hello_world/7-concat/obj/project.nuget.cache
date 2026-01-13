@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1LfYqX/p3Tno9cPRc99MnnVhEBL3P8HSx3hY1LxV6q4wEWt7CBArIBZCdBgjYE/z+a4/JEyAlJzapKSM+CI8Gg==",
+  "dgSpecHash": "ppVgDbM9qxdSf15/0QmFquaQ8XNMCAl+VSGDCI36l9qUAdsIwFlSN2ns36kXgkDm1AJY5/3vmLYpM0nH47XwhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\7-concat\\7-concat.csproj",
+  "projectFilePath": "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/7-concat/7-concat.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/bin/Debug/net7.0/0-new_project
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/bin/Debug/net7.0/0-new_project.deps.json
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/bin/Debug/net7.0/0-new_project.runtimeconfig.json
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/bin/Debug/net7.0/0-new_project.dll
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/bin/Debug/net7.0/0-new_project.pdb
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/obj/Debug/net7.0/0-new_project.GeneratedMSBuildEditorConfig.editorconfig
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/obj/Debug/net7.0/0-new_project.AssemblyInfoInputs.cache
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/obj/Debug/net7.0/0-new_project.AssemblyInfo.cs
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/obj/Debug/net7.0/0-new_project.csproj.CoreCompileInputs.cache
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/obj/Debug/net7.0/0-new_project.sourcelink.json
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/obj/Debug/net7.0/0-new_project.dll
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/obj/Debug/net7.0/refint/0-new_project.dll
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/obj/Debug/net7.0/0-new_project.pdb
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/obj/Debug/net7.0/0-new_project.genruntimeconfig.cache
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/0-new_project/obj/Debug/net7.0/ref/0-new_project.dll

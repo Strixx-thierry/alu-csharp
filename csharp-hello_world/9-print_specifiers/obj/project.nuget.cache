@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "huKqj+OLGkRtGtVJbO+7UDJ3uGOcLphGK43Emzzot0xucUDCx2wRUxmBbHG+BfXFDHeCfiIDbLV8kwGyPyBlQA==",
+  "dgSpecHash": "qniZ3BVTDrO0JT4bYxDKvli/0zQUhB5ENd/I0hZzs8W5vALGFCgZsAq1KWwoeFsm5/QETGtit9QonQydnIKc1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\9-print_specifiers\\9-print_specifiers.csproj",
+  "projectFilePath": "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/9-print_specifiers/9-print_specifiers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

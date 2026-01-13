@@ -1,0 +1,5 @@
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/netcoreapp2.1/2-new_project.csproj.AssemblyReference.cache
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/netcoreapp2.1/2-new_project.GeneratedMSBuildEditorConfig.editorconfig
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/netcoreapp2.1/2-new_project.AssemblyInfoInputs.cache
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/netcoreapp2.1/2-new_project.AssemblyInfo.cs
+/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/2-new_project/obj/Debug/netcoreapp2.1/2-new_project.csproj.CoreCompileInputs.cache

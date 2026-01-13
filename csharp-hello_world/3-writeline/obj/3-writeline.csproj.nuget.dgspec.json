@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\3-writeline\\3-writeline.csproj": {}
+    "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/3-writeline/3-writeline.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\3-writeline\\3-writeline.csproj": {
+    "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/3-writeline/3-writeline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\3-writeline\\3-writeline.csproj",
+        "projectUniqueName": "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/3-writeline/3-writeline.csproj",
         "projectName": "3-writeline",
-        "projectPath": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\3-writeline\\3-writeline.csproj",
-        "packagesPath": "C:\\Users\\GUSENGA Thierry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\3-writeline\\obj\\",
+        "projectPath": "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/3-writeline/3-writeline.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/3-writeline/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\GUSENGA Thierry\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/matt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,11 +1,11 @@
-using System;
+﻿﻿using System;
 
 class Program
 {
-	static void Main(string[] args)
-	{
-		string str = "C# (pronounced \"See Sharp\") is a simple, modern, object-oriented, and type-safe programming language. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers.";
-		str = str.Substring(49, 15) + str.Substring(79, 13) + str.Substring(119, 3) + str.Substring(102, 2);
-		Console.WriteLine(str);
-	}
+    static void Main(string[] args)
+    {
+        string str = "C# is an elegant and type-safe object-oriented programming language that enables developers to build a variety of secure and robust applications that run on the .NET Framework.";
+        str = str.Substring(31,27) + str.Substring(2, 1) + str.Substring(55, 2) + str.Substring(2, 1)+ str.Substring(0, 2);
+        Console.WriteLine(str);
+    }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {}
+    "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/4-print_integer/4-print_integer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {
+    "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/4-print_integer/4-print_integer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
+        "projectUniqueName": "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/4-print_integer/4-print_integer.csproj",
         "projectName": "4-print_integer",
-        "projectPath": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
-        "packagesPath": "C:\\Users\\GUSENGA Thierry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\4-print_integer\\obj\\",
+        "projectPath": "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/4-print_integer/4-print_integer.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/4-print_integer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\GUSENGA Thierry\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/matt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
         }
       }
     }

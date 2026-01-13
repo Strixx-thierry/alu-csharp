@@ -1,10 +1,11 @@
-using System;
+﻿using System;
 
 class Program
 {
 	static void Main(string[] args)
 	{
 		string str = "Holberton School";
-		Console.WriteLine($"{str}{str}{str}\n{str.Substring(0, 9)}");
-	}
+        Console.WriteLine("{0}{0}{0}", str);
+        Console.WriteLine(str.Substring(0, 9));
+    }
 }
