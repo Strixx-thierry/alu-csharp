@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-ifelse_loops_methods\\10-print_line\\10-print_line.csproj": {}
+    "/home/matt/Documents/learnc#/alu-csharp/csharp-ifelse_loops_methods/10-print_line/10-print_line.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-ifelse_loops_methods\\10-print_line\\10-print_line.csproj": {
+    "/home/matt/Documents/learnc#/alu-csharp/csharp-ifelse_loops_methods/10-print_line/10-print_line.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-ifelse_loops_methods\\10-print_line\\10-print_line.csproj",
+        "projectUniqueName": "/home/matt/Documents/learnc#/alu-csharp/csharp-ifelse_loops_methods/10-print_line/10-print_line.csproj",
         "projectName": "10-print_line",
-        "projectPath": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-ifelse_loops_methods\\10-print_line\\10-print_line.csproj",
-        "packagesPath": "C:\\Users\\GUSENGA Thierry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-ifelse_loops_methods\\10-print_line\\obj\\",
+        "projectPath": "/home/matt/Documents/learnc#/alu-csharp/csharp-ifelse_loops_methods/10-print_line/10-print_line.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Documents/learnc#/alu-csharp/csharp-ifelse_loops_methods/10-print_line/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\GUSENGA Thierry\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/matt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
         }
       }
     }

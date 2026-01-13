@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args) // Entry point
     {
         Line.PrintLine(3);
         Line.PrintLine(0);

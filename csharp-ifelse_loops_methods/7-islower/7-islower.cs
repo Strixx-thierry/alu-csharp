@@ -1,4 +1,6 @@
-public class Character
+using System;
+
+class Character
 {
     public static bool IsLower(char c)
     {

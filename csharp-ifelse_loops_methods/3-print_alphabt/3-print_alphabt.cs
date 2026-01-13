@@ -4,11 +4,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        for (char c = 'a'; c <= 'z'; c++)
+        for (char letter = 'a'; letter <= 'z'; letter++)
         {
-            if (c != 'e' && c != 'q')
+            if (letter != 'q' && letter != 'e')
             {
-                Console.Write(c);
+                Console.Write(letter);
             }
         }
     }

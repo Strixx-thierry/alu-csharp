@@ -4,9 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        for (char c = 'a'; c <= 'z'; c++)
+        for (char letter = 'a'; letter <= 'z'; letter++)
         {
-            Console.Write(c);
+            Console.Write(letter);
         }
     }
 }

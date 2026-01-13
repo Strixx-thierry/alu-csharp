@@ -1,12 +1,12 @@
-﻿using System;
+using System;
 
 class Program
 {
     static void Main(string[] args)
     {
-        for (int i = 0; i <= 98; i++)
+        for (int a = 0; a <= 98; a++)
         {
-            Console.Write("{0} = 0x{1:x}\n", i, i);
+            Console.WriteLine($"{a} = 0x{a:x}");
         }
     }
 }

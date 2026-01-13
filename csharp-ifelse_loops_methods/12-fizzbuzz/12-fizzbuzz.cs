@@ -1,26 +1,20 @@
-﻿using System;
+using System;
 
-class Program
+class FizzBuzz
 {
-    static void Main(string[] args)
+    public static void Run()
     {
         for (int i = 1; i <= 100; i++)
         {
-            string output = "";
-            if (i % 3 == 0)
-                output += "Fizz";
-            if (i % 5 == 0)
-                output += "Buzz";
-            
-            if (output == "")
-                output = i.ToString();
-            
-            Console.Write(output);
-            
-            if (i < 100)
-                Console.Write(" ");
-            else
-                Console.WriteLine();
+            if (i % 3 == 0 && i % 5 == 0) 
+                Console.Write("FizzBuzz ");
+            else if (i % 3 == 0) 
+                Console.Write("Fizz ");
+            else if (i % 5 == 0) 
+                Console.Write("Buzz ");
+            else 
+                Console.Write(i + " ");
         }
+        Console.WriteLine();
     }
 }

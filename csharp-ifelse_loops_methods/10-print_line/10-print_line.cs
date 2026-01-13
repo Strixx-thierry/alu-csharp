@@ -1,6 +1,6 @@
-using System;
+﻿using System;
 
-public class Line
+class Line
 {
     public static void PrintLine(int length)
     {
@@ -11,6 +11,6 @@ public class Line
                 Console.Write("_");
             }
         }
-        Console.WriteLine();
+        Console.WriteLine(); // End with a new line
     }
 }

@@ -1,19 +1,19 @@
-﻿using System;
+using System;
 
 class Program
 {
     static void Main(string[] args)
     {
-        for (int i = 0; i <= 99; i++)
+        for (int a = 0; a < 100; a++)
         {
-            if (i < 99)
-            {
-               Console.Write("{0:D2}, ", i);
+            if (a == 99){
+                Console.Write($"{a}\n");
             }
-            else
-            {
-               Console.Write("{0:D2}\n", i);
+            else{
+                Console.Write($"{a.ToString("D2")}, ");
             }
         }
     }
+
 }
+
