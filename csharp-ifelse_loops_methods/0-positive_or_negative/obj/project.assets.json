@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\landi\\.nuget\\packages\\": {}
+    "C:\\Users\\GUSENGA Thierry\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\landi\\c-sharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\0-positive_or_negative.csproj",
+      "projectUniqueName": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\0-positive_or_negative.csproj",
       "projectName": "0-positive_or_negative",
-      "projectPath": "C:\\Users\\landi\\c-sharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\0-positive_or_negative.csproj",
-      "packagesPath": "C:\\Users\\landi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\landi\\c-sharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\obj\\",
+      "projectPath": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\0-positive_or_negative.csproj",
+      "packagesPath": "C:\\Users\\GUSENGA Thierry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\landi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\GUSENGA Thierry\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/matt/.nuget/packages/": {}
+    "C:\\Users\\GUSENGA Thierry\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/1-new_project/1-new_project.csproj",
+      "projectUniqueName": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\1-new_project\\1-new_project.csproj",
       "projectName": "1-new_project",
-      "projectPath": "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/1-new_project/1-new_project.csproj",
-      "packagesPath": "/home/matt/.nuget/packages/",
-      "outputPath": "/home/matt/Documents/learnc#/alu-csharp/csharp-hello_world/1-new_project/obj/",
+      "projectPath": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\1-new_project\\1-new_project.csproj",
+      "packagesPath": "C:\\Users\\GUSENGA Thierry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GUSENGA Thierry\\Desktop\\alu-csharp\\csharp-hello_world\\1-new_project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/matt/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\GUSENGA Thierry\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }
