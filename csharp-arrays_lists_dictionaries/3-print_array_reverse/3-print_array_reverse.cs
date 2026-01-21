@@ -6,7 +6,7 @@ class Array
     /// Prints all integers of an array, in reverse order.
     /// </summary>
     /// <param name="array">The array to print.</param>
-    public static void Reverse(int[]? array)
+    public static void Reverse(int[] array)
     {
         if (array == null || array.Length == 0)
         {
