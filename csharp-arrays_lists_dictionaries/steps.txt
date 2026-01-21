@@ -1,0 +1,20 @@
+Step-by-Step Implementation Guide for C# Arrays, Lists, and Dictionaries tasks:
+
+1.  **Project Organization**: Created a directory structure for all 16 tasks (0-15) inside `csharp-arrays_lists_dictionaries/`.
+2.  **Task 0 (0-print_array)**: Implemented `CreatePrint` for `int[]`. Used a loop to populate the array with incrementing integers and printed them space-separated.
+3.  **Task 1 (1-element_at)**: Implemented `elementAt`. Included bounds checking; returns the value if valid, otherwise prints an error and returns -1.
+4.  **Task 2 (2-replace_element)**: Implemented `ReplaceElement`. Checks if the index is valid before updating the array value.
+5.  **Task 3 (3-print_array_reverse)**: Implemented `Reverse`. Iterates through the array from `Length - 1` down to 0, printing values with space separation.
+6.  **Task 4 (4-print_list)**: Implemented `CreatePrint` for `List<int>`. Similar to Task 0 but uses `List` methods like `.Add()`.
+7.  **Task 5 (5-max_integer)**: Implemented `MaxInteger`. Manually iterated through the list to find the highest value without using LINQ.
+8.  **Task 6 (6-divisible_by_2)**: Implemented `DivisibleBy2`. Created a new `List<bool>` and used the modulo operator `%` to check parity.
+9.  **Task 7 (7-delete_at)**: Implemented `DeleteAt`. Since `.RemoveAt()` was forbidden, used `.Remove()` on the value at the target index (standard alternative).
+10. **Task 8 (8-number_keys)**: Implemented `NumberOfKeys`. Used a `foreach` loop over keys to count them manually instead of using `.Count`.
+11. **Task 9 (9-add_key_value)**: Implemented `AddKeyValue`. Used dictionary indexing `myDict[key] = value` which automatically handles adding or updating.
+12. **Task 10 (10-delete_key_value)**: Implemented `DeleteKeyValue`. Used `myDict.Remove(key)` to safely remove an entry.
+13. **Task 11 (11-multiply_by_2)**: Implemented `MultiplyBy2`. Created a new dictionary and iterated through the original to add doubled values.
+14. **Task 12 (12-print_sorted_dictionary)**: Implemented `PrintSorted`. Extracted keys into a `List<string>`, used `.Sort()`, then iterated through sorted keys to print.
+15. **Task 13 (13-best_score)**: Implemented `BestScore`. Iterated through the dictionary to find the key associated with the highest integer value.
+16. **Task 14 (14-rectangular_array)**: Created a program that initializes a 2D array `int[5, 5]`, sets `[2, 2]` to 1, and prints the matrix.
+17. **Task 15 (15-square_matrix)**: Implemented `Square`. Created a new 2D array of the same dimensions and filled it with squares of the original elements.
+18. **Configuration**: Created `.csproj` files for every directory to ensure they are valid .NET projects.
