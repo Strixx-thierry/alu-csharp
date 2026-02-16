@@ -1,0 +1,14 @@
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\bin\Debug\net7.0\3-dog.exe
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\bin\Debug\net7.0\3-dog.deps.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\bin\Debug\net7.0\3-dog.runtimeconfig.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\bin\Debug\net7.0\3-dog.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\bin\Debug\net7.0\3-dog.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.AssemblyInfoInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.AssemblyInfo.cs
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.csproj.CoreCompileInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\refint\3-dog.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.genruntimeconfig.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\ref\3-dog.dll
