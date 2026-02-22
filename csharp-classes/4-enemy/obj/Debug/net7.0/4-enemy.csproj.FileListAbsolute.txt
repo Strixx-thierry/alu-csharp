@@ -1,0 +1,14 @@
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\bin\Debug\net7.0\4-enemy.exe
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\bin\Debug\net7.0\4-enemy.deps.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\bin\Debug\net7.0\4-enemy.runtimeconfig.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\bin\Debug\net7.0\4-enemy.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\bin\Debug\net7.0\4-enemy.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\obj\Debug\net7.0\4-enemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\obj\Debug\net7.0\4-enemy.AssemblyInfoInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\obj\Debug\net7.0\4-enemy.AssemblyInfo.cs
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\obj\Debug\net7.0\4-enemy.csproj.CoreCompileInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\obj\Debug\net7.0\4-enemy.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\obj\Debug\net7.0\refint\4-enemy.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\obj\Debug\net7.0\4-enemy.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\obj\Debug\net7.0\4-enemy.genruntimeconfig.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\4-enemy\obj\Debug\net7.0\ref\4-enemy.dll
