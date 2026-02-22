@@ -1,0 +1,14 @@
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\bin\Debug\net7.0\2-enemy.exe
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\bin\Debug\net7.0\2-enemy.deps.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\bin\Debug\net7.0\2-enemy.runtimeconfig.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\bin\Debug\net7.0\2-enemy.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\bin\Debug\net7.0\2-enemy.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.AssemblyInfoInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.AssemblyInfo.cs
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.csproj.CoreCompileInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\refint\2-enemy.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.genruntimeconfig.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\ref\2-enemy.dll
