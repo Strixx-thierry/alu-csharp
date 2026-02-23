@@ -1,0 +1,14 @@
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\bin\Debug\net7.0\namespaces_practice.exe
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\bin\Debug\net7.0\namespaces_practice.deps.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\bin\Debug\net7.0\namespaces_practice.runtimeconfig.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\bin\Debug\net7.0\namespaces_practice.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\bin\Debug\net7.0\namespaces_practice.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\obj\Debug\net7.0\namespaces_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\obj\Debug\net7.0\namespaces_practice.AssemblyInfoInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\obj\Debug\net7.0\namespaces_practice.AssemblyInfo.cs
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\obj\Debug\net7.0\namespaces_practice.csproj.CoreCompileInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\obj\Debug\net7.0\namespaces_practice.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\obj\Debug\net7.0\refint\namespaces_practice.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\obj\Debug\net7.0\namespaces_practice.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\obj\Debug\net7.0\namespaces_practice.genruntimeconfig.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\practicez\namespaces_practice\obj\Debug\net7.0\ref\namespaces_practice.dll

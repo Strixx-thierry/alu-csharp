@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>
+            Defines a zombie with ToString override.
+            </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary>Health of the zombie.</summary>
+        </member>
+        <member name="F:Enemies.Zombie.name">
+            <summary>Name of the zombie.</summary>
+        </member>
+        <member name="P:Enemies.Zombie.Name">
+            <summary>
+            Gets or sets the name of the zombie.
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Enemies.Zombie"/> class with health 0.
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Enemies.Zombie"/> class with specified health.
+            </summary>
+            <param name="value">Initial health value.</param>
+            <exception cref="T:System.ArgumentException">Thrown when value is less than 0.</exception>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary>
+            Returns the health of the zombie.
+            </summary>
+            <returns>Current health value.</returns>
+        </member>
+        <member name="M:Enemies.Zombie.ToString">
+            <summary>
+            Returns a string representation of the zombie.
+            </summary>
+            <returns>Formatted string with zombie name and health.</returns>
+        </member>
+    </members>
+</doc>

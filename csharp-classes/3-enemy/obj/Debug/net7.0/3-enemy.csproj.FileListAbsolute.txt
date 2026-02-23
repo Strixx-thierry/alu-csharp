@@ -12,3 +12,5 @@ C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\3-enemy\obj\Debug\net
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\3-enemy\obj\Debug\net7.0\3-enemy.pdb
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\3-enemy\obj\Debug\net7.0\3-enemy.genruntimeconfig.cache
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\3-enemy\obj\Debug\net7.0\ref\3-enemy.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\3-enemy\bin\Debug\net7.0\3-enemy.xml
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\3-enemy\obj\Debug\net7.0\3-enemy.xml

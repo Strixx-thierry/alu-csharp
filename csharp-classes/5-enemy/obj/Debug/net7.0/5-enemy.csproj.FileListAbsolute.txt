@@ -12,3 +12,5 @@ C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\5-enemy\obj\Debug\net
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\5-enemy\obj\Debug\net7.0\5-enemy.pdb
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\5-enemy\obj\Debug\net7.0\5-enemy.genruntimeconfig.cache
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\5-enemy\obj\Debug\net7.0\ref\5-enemy.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\5-enemy\bin\Debug\net7.0\5-enemy.xml
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-classes\5-enemy\obj\Debug\net7.0\5-enemy.xml
