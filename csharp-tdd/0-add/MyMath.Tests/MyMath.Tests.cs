@@ -12,6 +12,9 @@ namespace MyMath.Tests
         {
         }
 
+        /// <summary>
+        /// Tests that Add returns the correct sum of two positive integers.
+        /// </summary>
         [Test]
         public void Add_PositiveNumbers_ReturnsSum()
         {
@@ -19,6 +22,9 @@ namespace MyMath.Tests
             Assert.That(result, Is.EqualTo(3));
         }
 
+        /// <summary>
+        /// Tests that Add returns the correct sum of two negative integers.
+        /// </summary>
         [Test]
         public void Add_NegativeNumbers_ReturnsSum()
         {
@@ -26,6 +32,9 @@ namespace MyMath.Tests
             Assert.That(result, Is.EqualTo(-3));
         }
 
+        /// <summary>
+        /// Tests that Add returns the correct sum of a positive and a negative integer.
+        /// </summary>
         [Test]
         public void Add_PositiveAndNegative_ReturnsSum()
         {
@@ -33,6 +42,9 @@ namespace MyMath.Tests
             Assert.That(result, Is.EqualTo(3));
         }
 
+        /// <summary>
+        /// Tests that Add returns the other number when one is zero.
+        /// </summary>
         [Test]
         public void Add_Zero_ReturnsOtherNumber()
         {

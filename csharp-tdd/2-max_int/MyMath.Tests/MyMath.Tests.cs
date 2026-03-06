@@ -9,6 +9,9 @@ namespace MyMath.Tests
     /// </summary>
     public class OperationsTests
     {
+        /// <summary>
+        /// Tests that Max returns the maximum integer from a list of positive integers.
+        /// </summary>
         [Test]
         public void Max_ListOfPositiveIntegers_ReturnsMax()
         {
@@ -17,6 +20,9 @@ namespace MyMath.Tests
             Assert.That(result, Is.EqualTo(9));
         }
 
+        /// <summary>
+        /// Tests that Max returns the maximum integer from a list of negative integers.
+        /// </summary>
         [Test]
         public void Max_ListOfNegativeIntegers_ReturnsMax()
         {
@@ -25,6 +31,9 @@ namespace MyMath.Tests
             Assert.That(result, Is.EqualTo(-1));
         }
 
+        /// <summary>
+        /// Tests that Max returns the maximum integer from a list of mixed integers.
+        /// </summary>
         [Test]
         public void Max_MixedIntegers_ReturnsMax()
         {
@@ -33,6 +42,9 @@ namespace MyMath.Tests
             Assert.That(result, Is.EqualTo(5));
         }
 
+        /// <summary>
+        /// Tests that Max returns zero when the list is empty.
+        /// </summary>
         [Test]
         public void Max_EmptyList_ReturnsZero()
         {
@@ -41,6 +53,9 @@ namespace MyMath.Tests
             Assert.That(result, Is.EqualTo(0));
         }
 
+        /// <summary>
+        /// Tests that Max returns zero when the list is null.
+        /// </summary>
         [Test]
         public void Max_NullList_ReturnsZero()
         {
@@ -48,6 +63,9 @@ namespace MyMath.Tests
             Assert.That(result, Is.EqualTo(0));
         }
 
+        /// <summary>
+        /// Tests that Max returns the element when the list has a single element.
+        /// </summary>
         [Test]
         public void Max_SingleElement_ReturnsElement()
         {

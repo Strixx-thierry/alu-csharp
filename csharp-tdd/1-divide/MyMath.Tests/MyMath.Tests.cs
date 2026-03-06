@@ -13,6 +13,9 @@ namespace MyMath.Tests
         {
         }
 
+        /// <summary>
+        /// Tests that Divide correctly divides all elements of a matrix by a positive number.
+        /// </summary>
         [Test]
         public void Divide_MatrixByNumber_ReturnsDividedMatrix()
         {
@@ -21,6 +24,9 @@ namespace MyMath.Tests
             Assert.That(result, Is.EqualTo(new int[,] { { 1, 2 }, { 3, 4 } }));
         }
 
+        /// <summary>
+        /// Tests that Divide correctly divides all elements of a matrix by a negative number.
+        /// </summary>
         [Test]
         public void Divide_MatrixByNegativeNumber_ReturnsDividedMatrix()
         {
@@ -29,6 +35,9 @@ namespace MyMath.Tests
             Assert.That(result, Is.EqualTo(new int[,] { { -1, -2 }, { -3, -4 } }));
         }
 
+        /// <summary>
+        /// Tests that Divide returns null and prints a message when dividing by zero.
+        /// </summary>
         [Test]
         public void Divide_ByZero_ReturnsNullAndPrintsMessage()
         {
@@ -37,6 +46,9 @@ namespace MyMath.Tests
             Assert.That(result, Is.Null);
         }
 
+        /// <summary>
+        /// Tests that Divide returns null when the input matrix is null.
+        /// </summary>
         [Test]
         public void Divide_NullMatrix_ReturnsNull()
         {
