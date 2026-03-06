@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Reflection;
 using System.Collections.Generic;
-using System.Linq;
+using System.Reflection;
 
 /// <summary>
 /// This class contains methods for object information printing.
@@ -17,15 +16,15 @@ public class Obj
         Type t = myObj.GetType();
 
         Console.WriteLine("{0} Properties:", t.Name);
-        var properties = t.GetProperties(BindingFlags.Public | BindingFlags.Instance | BindingFlags.Static);
-        foreach (var prop in properties)
+        PropertyInfo[] properties = t.GetProperties(BindingFlags.Public | BindingFlags.Instance | BindingFlags.Static);
+        foreach (PropertyInfo prop in properties)
         {
             Console.WriteLine(prop.Name);
         }
 
         Console.WriteLine("{0} Methods:", t.Name);
-        var methods = t.GetMethods(BindingFlags.Public | BindingFlags.Instance | BindingFlags.Static);
-        foreach (var method in methods)
+        MethodInfo[] methods = t.GetMethods(BindingFlags.Public | BindingFlags.Instance | BindingFlags.Static);
+        foreach (MethodInfo method in methods)
         {
             Console.WriteLine(method.Name);
         }
