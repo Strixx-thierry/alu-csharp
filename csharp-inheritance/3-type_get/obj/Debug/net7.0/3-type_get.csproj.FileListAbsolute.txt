@@ -9,3 +9,6 @@ C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\3-type_get\obj\De
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\refint\3-type_get.dll
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.pdb
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\ref\3-type_get.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.exe
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\3-type_get\bin\Debug\net7.0\3-type_get.runtimeconfig.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\3-type_get\obj\Debug\net7.0\3-type_get.genruntimeconfig.cache

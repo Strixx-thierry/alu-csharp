@@ -9,3 +9,6 @@ C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\2-subclass\obj\De
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\refint\2-subclass.dll
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\2-subclass.pdb
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\ref\2-subclass.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\2-subclass\bin\Debug\net7.0\2-subclass.exe
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\2-subclass\bin\Debug\net7.0\2-subclass.runtimeconfig.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\2-subclass\obj\Debug\net7.0\2-subclass.genruntimeconfig.cache

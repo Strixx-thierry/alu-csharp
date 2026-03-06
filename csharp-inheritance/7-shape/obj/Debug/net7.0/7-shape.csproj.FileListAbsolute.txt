@@ -9,3 +9,6 @@ C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\7-shape\obj\Debug
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\refint\7-shape.dll
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.pdb
 C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\ref\7-shape.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.exe
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.runtimeconfig.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.genruntimeconfig.cache
