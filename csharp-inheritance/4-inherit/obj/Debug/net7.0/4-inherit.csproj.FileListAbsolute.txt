@@ -1,0 +1,11 @@
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.deps.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.AssemblyInfoInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.AssemblyInfo.cs
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.csproj.CoreCompileInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\refint\4-inherit.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\ref\4-inherit.dll

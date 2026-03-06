@@ -8,7 +8,7 @@ public class Shape
     /// <summary>
     /// Calculates the area of the shape.
     /// </summary>
-    /// <returns>None. Throws NotImplementedException.</returns>
+    /// <returns>This method is not implemented in the base class.</returns>
     /// <exception cref="NotImplementedException">Thrown always with message Area() is not implemented.</exception>
     public virtual int Area()
     {

@@ -1,0 +1,11 @@
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\5-shape\bin\Debug\net7.0\5-shape.deps.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\5-shape\bin\Debug\net7.0\5-shape.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\5-shape\bin\Debug\net7.0\5-shape.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\5-shape\obj\Debug\net7.0\5-shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\5-shape\obj\Debug\net7.0\5-shape.AssemblyInfoInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\5-shape\obj\Debug\net7.0\5-shape.AssemblyInfo.cs
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\5-shape\obj\Debug\net7.0\5-shape.csproj.CoreCompileInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\5-shape\obj\Debug\net7.0\5-shape.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\5-shape\obj\Debug\net7.0\refint\5-shape.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\5-shape\obj\Debug\net7.0\5-shape.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\5-shape\obj\Debug\net7.0\ref\5-shape.dll

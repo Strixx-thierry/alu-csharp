@@ -1,0 +1,11 @@
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\1-instance\bin\Debug\net7.0\1-instance.deps.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\1-instance\bin\Debug\net7.0\1-instance.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\1-instance\bin\Debug\net7.0\1-instance.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.AssemblyInfoInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.AssemblyInfo.cs
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.csproj.CoreCompileInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\refint\1-instance.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\ref\1-instance.dll

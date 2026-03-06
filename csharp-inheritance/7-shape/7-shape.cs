@@ -8,7 +8,7 @@ public class Shape
     /// <summary>
     /// Calculates the area of the shape.
     /// </summary>
-    /// <returns>None. Throws NotImplementedException.</returns>
+    /// <returns>This method is not implemented in the base class.</returns>
     /// <exception cref="NotImplementedException">Thrown always with message Area() is not implemented.</exception>
     public virtual int Area()
     {
@@ -34,7 +34,9 @@ public class Rectangle : Shape
         set
         {
             if (value < 0)
+            {
                 throw new ArgumentException("Width must be greater than or equal to 0");
+            }
             width = value;
         }
     }
@@ -49,7 +51,9 @@ public class Rectangle : Shape
         set
         {
             if (value < 0)
+            {
                 throw new ArgumentException("Height must be greater than or equal to 0");
+            }
             height = value;
         }
     }
