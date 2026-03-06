@@ -1,0 +1,11 @@
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-tdd\4-unique\Text\bin\Debug\net7.0\Text.deps.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-tdd\4-unique\Text\bin\Debug\net7.0\Text.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-tdd\4-unique\Text\bin\Debug\net7.0\Text.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-tdd\4-unique\Text\obj\Debug\net7.0\Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-tdd\4-unique\Text\obj\Debug\net7.0\Text.AssemblyInfoInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-tdd\4-unique\Text\obj\Debug\net7.0\Text.AssemblyInfo.cs
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-tdd\4-unique\Text\obj\Debug\net7.0\Text.csproj.CoreCompileInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-tdd\4-unique\Text\obj\Debug\net7.0\Text.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-tdd\4-unique\Text\obj\Debug\net7.0\refint\Text.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-tdd\4-unique\Text\obj\Debug\net7.0\Text.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-tdd\4-unique\Text\obj\Debug\net7.0\ref\Text.dll
