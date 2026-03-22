@@ -1,0 +1,4 @@
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\33-inverse_2D\obj\Debug\net7.0\33-inverse_2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\33-inverse_2D\obj\Debug\net7.0\33-inverse_2D.AssemblyInfoInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\33-inverse_2D\obj\Debug\net7.0\33-inverse_2D.AssemblyInfo.cs
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\33-inverse_2D\obj\Debug\net7.0\33-inverse_2D.csproj.CoreCompileInputs.cache

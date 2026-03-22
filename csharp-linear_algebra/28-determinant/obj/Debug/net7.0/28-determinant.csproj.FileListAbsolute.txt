@@ -1,0 +1,4 @@
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\28-determinant\obj\Debug\net7.0\28-determinant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\28-determinant\obj\Debug\net7.0\28-determinant.AssemblyInfoInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\28-determinant\obj\Debug\net7.0\28-determinant.AssemblyInfo.cs
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\28-determinant\obj\Debug\net7.0\28-determinant.csproj.CoreCompileInputs.cache

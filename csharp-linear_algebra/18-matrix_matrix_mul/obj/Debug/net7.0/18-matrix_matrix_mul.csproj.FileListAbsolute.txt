@@ -1,0 +1,4 @@
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\net7.0\18-matrix_matrix_mul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\net7.0\18-matrix_matrix_mul.AssemblyInfoInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\net7.0\18-matrix_matrix_mul.AssemblyInfo.cs
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\18-matrix_matrix_mul\obj\Debug\net7.0\18-matrix_matrix_mul.csproj.CoreCompileInputs.cache
