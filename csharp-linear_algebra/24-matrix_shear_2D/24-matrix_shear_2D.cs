@@ -14,10 +14,7 @@ public class MatrixMath
     /// <returns>Resulting matrix, or [-1] if invalid.</returns>
     public static double[,] Shear2D(double[,] matrix, char direction, double factor)
     {
-        int rows = matrix.GetLength(0);
-        int cols = matrix.GetLength(1);
-
-        if (rows != 2 || cols != 2 || (direction != 'x' && direction != 'y'))
+        if (matrix.GetLength(0) != 2 || matrix.GetLength(1) != 2 || (direction != 'x' && direction != 'y'))
         {
             return new double[,] { { -1 } };
         }
@@ -30,16 +27,17 @@ public class MatrixMath
 
             if (direction == 'x')
             {
-                result[i, 0] = x + factor * y;
+                result[i, 0] = Math.Round(x + factor * y, 2);
                 result[i, 1] = y;
             }
             else // direction == 'y'
             {
                 result[i, 0] = x;
-                result[i, 1] = y + factor * x;
+                result[i, 1] = Math.Round(y + factor * x, 2);
             }
         }
 
         return result;
     }
 }
+
