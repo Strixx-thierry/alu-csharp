@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>30-cross_product</name>
+    </assembly>
+    <members>
+        <member name="T:VectorMath">
+            <summary>
+            A class for vector calculations.
+            </summary>
+        </member>
+        <member name="M:VectorMath.CrossProduct(System.Double[],System.Double[])">
+            <summary>
+            Calculates the cross product of two 3D vectors.
+            </summary>
+            <param name="vector1">First 3D vector.</param>
+            <param name="vector2">Second 3D vector.</param>
+            <returns>Resulting vector, or [-1] if invalid.</returns>
+        </member>
+    </members>
+</doc>
