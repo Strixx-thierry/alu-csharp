@@ -22,7 +22,7 @@ public class MatrixMath
 
         if (rows == 2)
         {
-            return Math.Round(matrix[0, 0] * matrix[1, 1] - matrix[0, 1] * matrix[1, 0], 2);
+            return matrix[0, 0] * matrix[1, 1] - matrix[0, 1] * matrix[1, 0];
         }
         else // rows == 3
         {
@@ -36,7 +36,7 @@ public class MatrixMath
             double h = matrix[2, 1];
             double i = matrix[2, 2];
 
-            return Math.Round(a * (e * i - f * h) - b * (d * i - f * g) + c * (d * h - e * g), 2);
+            return a * (e * i - f * h) - b * (d * i - f * g) + c * (d * h - e * g);
         }
     }
 }

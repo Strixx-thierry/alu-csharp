@@ -30,8 +30,8 @@ public class MatrixMath
             double x = matrix[i, 0];
             double y = matrix[i, 1];
             
-            result[i, 0] = Math.Round(x * cosA - y * sinA, 2);
-            result[i, 1] = Math.Round(x * sinA + y * cosA, 2);
+            result[i, 0] = x * cosA - y * sinA;
+            result[i, 1] = x * sinA + y * cosA;
         }
 
         return result;
