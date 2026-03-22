@@ -1,0 +1,11 @@
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\3-magnitude\bin\Debug\net7.0\3-magnitude.deps.json
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\3-magnitude\bin\Debug\net7.0\3-magnitude.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\3-magnitude\bin\Debug\net7.0\3-magnitude.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\3-magnitude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\3-magnitude.AssemblyInfoInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\3-magnitude.AssemblyInfo.cs
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\3-magnitude.csproj.CoreCompileInputs.cache
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\3-magnitude.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\refint\3-magnitude.dll
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\3-magnitude.pdb
+C:\Users\GUSENGA Thierry\Desktop\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\ref\3-magnitude.dll
